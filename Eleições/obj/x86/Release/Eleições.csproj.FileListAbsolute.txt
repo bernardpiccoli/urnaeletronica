@@ -1,0 +1,9 @@
+F:\Eleições -XML\Eleições\bin\Release\Eleições.exe
+F:\Eleições -XML\Eleições\bin\Release\Eleições.pdb
+F:\Eleições -XML\Eleições\obj\x86\Release\Eleições.Add.resources
+F:\Eleições -XML\Eleições\obj\x86\Release\Eleições.Properties.Resources.resources
+F:\Eleições -XML\Eleições\obj\x86\Release\Eleições.Relacao.resources
+F:\Eleições -XML\Eleições\obj\x86\Release\Eleições.Urna.resources
+F:\Eleições -XML\Eleições\obj\x86\Release\Eleições.csproj.GenerateResource.Cache
+F:\Eleições -XML\Eleições\obj\x86\Release\Eleições.exe
+F:\Eleições -XML\Eleições\obj\x86\Release\Eleições.pdb

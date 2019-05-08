@@ -1,0 +1,75 @@
+c:\users\bernard.piccoli\documents\visual studio 2010\Projects\Eleições\Eleições\bin\Debug\Eleições.exe
+c:\users\bernard.piccoli\documents\visual studio 2010\Projects\Eleições\Eleições\bin\Debug\Eleições.pdb
+c:\users\bernard.piccoli\documents\visual studio 2010\Projects\Eleições\Eleições\obj\x86\Debug\Eleições.Properties.Resources.resources
+c:\users\bernard.piccoli\documents\visual studio 2010\Projects\Eleições\Eleições\obj\x86\Debug\Eleições.csproj.GenerateResource.Cache
+c:\users\bernard.piccoli\documents\visual studio 2010\Projects\Eleições\Eleições\obj\x86\Debug\Eleições.exe
+c:\users\bernard.piccoli\documents\visual studio 2010\Projects\Eleições\Eleições\obj\x86\Debug\Eleições.pdb
+c:\users\bernard.piccoli\documents\visual studio 2010\Projects\Eleições\Eleições\obj\x86\Debug\Eleições.Urna.resources
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\obj\x86\Debug\Eleições.Properties.Resources.resources
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\obj\x86\Debug\Eleições.Urna.resources
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\obj\x86\Debug\Eleições.csproj.GenerateResource.Cache
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\bin\Debug\Eleições.exe
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\bin\Debug\Eleições.pdb
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\obj\x86\Debug\Eleições.exe
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\obj\x86\Debug\Eleições.pdb
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\obj\x86\Debug\Eleições.Form1.resources
+C:\Users\bernard.piccoli\Desktop\urna\Eleições\Eleições\obj\x86\Debug\Eleições.csprojResolveAssemblyReference.cache
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.exe
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.pdb
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.exe
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.pdb
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\bin\Debug\Eleições.exe
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\bin\Debug\Eleições.pdb
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.csprojResolveAssemblyReference.cache
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.Form1.resources
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.Properties.Resources.resources
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.Urna.resources
+C:\Users\bernard.piccoli\Desktop\urna\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.csproj.GenerateResource.Cache
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\bin\Debug\Eleições.exe
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\bin\Debug\Eleições.pdb
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.csprojResolveAssemblyReference.cache
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.Properties.Resources.resources
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.Urna.resources
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.csproj.GenerateResource.Cache
+C:\Users\bernard.piccoli\Desktop\Eleições - SQLITE\Eleições\obj\x86\Debug\Eleições.Relacao.resources
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\bin\Debug\Eleições.exe
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\bin\Debug\Eleições.pdb
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Properties.Resources.resources
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Relacao.resources
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Urna.resources
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csproj.GenerateResource.Cache
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\obj\x86\Debug\Eleições.exe
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\obj\x86\Debug\Eleições.pdb
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Add.resources
+C:\Users\bernard.piccoli\Desktop\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csprojResolveAssemblyReference.cache
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\obj\x86\Debug\Eleições.exe
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\obj\x86\Debug\Eleições.pdb
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\bin\Debug\Eleições.exe
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\bin\Debug\Eleições.pdb
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csprojResolveAssemblyReference.cache
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Add.resources
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Properties.Resources.resources
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Relacao.resources
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Urna.resources
+F:\Projeto Atuais\urna\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csproj.GenerateResource.Cache
+F:\Eleições -XML\Eleições\bin\Debug\Eleições.exe
+F:\Eleições -XML\Eleições\bin\Debug\Eleições.pdb
+F:\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csprojResolveAssemblyReference.cache
+F:\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Add.resources
+F:\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Properties.Resources.resources
+F:\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Relacao.resources
+F:\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Urna.resources
+F:\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csproj.GenerateResource.Cache
+F:\Eleições -XML\Eleições\obj\x86\Debug\Eleições.exe
+F:\Eleições -XML\Eleições\obj\x86\Debug\Eleições.pdb
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\bin\Debug\Eleições.exe
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\bin\Debug\Eleições.pdb
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csprojAssemblyReference.cache
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Add.resources
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Properties.Resources.resources
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Relacao.resources
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.Urna.resources
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csproj.GenerateResource.cache
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.csproj.CoreCompileInputs.cache
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.exe
+E:\Bernard\DEV - OLD\Concluidos\Eleições -XML\Eleições\obj\x86\Debug\Eleições.pdb

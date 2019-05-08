@@ -1,0 +1,1998 @@
+<?xml version="1.0"?>
+<ArrayOfCandidatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Candidatos>
+    <Nome>ALEXANDRE SCHUMACHER</Nome>
+    <Numero>12345</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>NELSON SABRÁ</Nome>
+    <Numero>12</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Prefeito</Cargo>
+    <Votos>1</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>Branco</Nome>
+    <Numero>0</Numero>
+    <Partido>PP</Partido>
+    <Cargo>Prefeito</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>Nulo</Nome>
+    <Numero>1</Numero>
+    <Partido>Nulo</Partido>
+    <Cargo>Prefeito</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ANDREA CIRINO</Nome>
+    <Numero>70313</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ABDO PAIOL</Nome>
+    <Numero>12024</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MICHELE OLIVEIRA</Nome>
+    <Numero>20077</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>BANINHO</Nome>
+    <Numero>55633</Numero>
+    <Partido>PSD</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SIMICA</Nome>
+    <Numero>25123</Numero>
+    <Partido>DEM</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ALCINÉIA</Nome>
+    <Numero>22220</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MIRO PEREIRA</Nome>
+    <Numero>19222</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ALEXANDRE MAIA</Nome>
+    <Numero>43007</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROFESSOR ALMIR</Nome>
+    <Numero>43900</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ALOISIO BARBOSA</Nome>
+    <Numero>36606</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ALOISIO LÚ</Nome>
+    <Numero>27111</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MENDES</Nome>
+    <Numero>17017</Numero>
+    <Partido>PSL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>AMARO PAIM</Nome>
+    <Numero>27000</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>IRMÃO AMARO MOTA</Nome>
+    <Numero>22333</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ANA CLAUDIA</Nome>
+    <Numero>17000</Numero>
+    <Partido>PSL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CRISTINA NICOLAU</Nome>
+    <Numero>25013</Numero>
+    <Partido>DEM</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ANA EDITE</Nome>
+    <Numero>14444</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>TIA ANDREA</Nome>
+    <Numero>36151</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ANDREA MOURA</Nome>
+    <Numero>70600</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ANTONIA GOMES</Nome>
+    <Numero>27777</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARINHO</Nome>
+    <Numero>70100</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ARYZINHO</Nome>
+    <Numero>36777</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>KAKÁ SANTANA</Nome>
+    <Numero>50900</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CAIO RODRIGUES</Nome>
+    <Numero>17007</Numero>
+    <Partido>PSL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CACA </Nome>
+    <Numero>55002</Numero>
+    <Partido>PSD</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CARLOS MADUREIRA</Nome>
+    <Numero>22123</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>KADÚ DO FORRÓ</Nome>
+    <Numero>22012</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>HENRIQUE MANZANI</Nome>
+    <Numero>14000</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>HENRIQUE DOS REMÉDIOS</Nome>
+    <Numero>36321</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RENATO VENCESLAU</Nome>
+    <Numero>14123</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>BETO BAÚ</Nome>
+    <Numero>44044</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROFESSOR CELSO</Nome>
+    <Numero>50333</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CINEIA</Nome>
+    <Numero>27456</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DECA</Nome>
+    <Numero>36374</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLAUDIA REZENDE</Nome>
+    <Numero>12007</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>NEY TORRES</Nome>
+    <Numero>70500</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLAUDIO COLORAL</Nome>
+    <Numero>36999</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLAUDIO KAKAY</Nome>
+    <Numero>19789</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLAUDIO VINICIUS</Nome>
+    <Numero>12000</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLEIDE MERGULHÃO</Nome>
+    <Numero>70113</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CRIS VALERIA</Nome>
+    <Numero>19010</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CRIZÃO</Nome>
+    <Numero>70777</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CRISTINA DA PADARIA</Nome>
+    <Numero>44171</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DANIEKE PACHECO</Nome>
+    <Numero>22000</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DIEGO VIEIRA</Nome>
+    <Numero>14567</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DULCI</Nome>
+    <Numero>36123</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>EDA</Nome>
+    <Numero>55123</Numero>
+    <Partido>PSD</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>IRMÃO EDIMILSON</Nome>
+    <Numero>27333</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>EDNA QUEIROGA</Nome>
+    <Numero>22789</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ELI GONÇALVES</Nome>
+    <Numero>36636</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ELI SIMAS</Nome>
+    <Numero>12888</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ELIANECARVALHO</Nome>
+    <Numero>44444</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ELIANE MACHAROTO</Nome>
+    <Numero>14888</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>BETE SANTOS</Nome>
+    <Numero>50888</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ELIZABETH LAGE</Nome>
+    <Numero>22322</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ENILSON FERNANDES</Nome>
+    <Numero>36613</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>EVA LUCIA</Nome>
+    <Numero>50778</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FABIANO MONKEN</Nome>
+    <Numero>43333</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FELIPE MOTTA</Nome>
+    <Numero>50050</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FLAVIA ROSSI</Nome>
+    <Numero>15456</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FLAVIO BANDEIRA</Nome>
+    <Numero>43000</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FRANCINE GUEDES</Nome>
+    <Numero>43034</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FRED PROCOPIO</Nome>
+    <Numero>45045</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GIL MAGNO</Nome>
+    <Numero>55555</Numero>
+    <Partido>PSD</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GILDA BEATRIZ</Nome>
+    <Numero>15123</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GIOVANI CHAVES</Nome>
+    <Numero>50100</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GLORIA IG</Nome>
+    <Numero>10101</Numero>
+    <Partido>PRB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GUSTAVO DIUREZ</Nome>
+    <Numero>15111</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GUSTAVO CABRAL</Nome>
+    <Numero>15345</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>HAYDEE</Nome>
+    <Numero>70010</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>HELIO ANDRE</Nome>
+    <Numero>15001</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>HELINHO</Nome>
+    <Numero>22040</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROFESSOR PINGÃO</Nome>
+    <Numero>22636</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>IVANA DUARTE</Nome>
+    <Numero>15010</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JAIRO VETERINARIO</Nome>
+    <Numero>12312</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JANAINA BORGES</Nome>
+    <Numero>19321</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JANDYARA</Nome>
+    <Numero>15147</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JOÃO DA VITORIA</Nome>
+    <Numero>19123</Numero>
+    <Partido>PRB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JOÃO HENRIQUE PENCINATO</Nome>
+    <Numero>12002</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JOÃO LUIS</Nome>
+    <Numero>19019</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JOÃO PAULO DA VISÃO</Nome>
+    <Numero>15678</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JUNE</Nome>
+    <Numero>43043</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LÚ</Nome>
+    <Numero>70024</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JORGE MESQUITA</Nome>
+    <Numero>45620</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DR. GABRICH</Nome>
+    <Numero>12333</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROFESSOR ALENCAR LISBOA</Nome>
+    <Numero>22580</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GUTO</Nome>
+    <Numero>12121</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>KSIM</Nome>
+    <Numero>50001</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PASTOE CARLOS SILVA</Nome>
+    <Numero>50268</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JOSE PERCIA</Nome>
+    <Numero>44112</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JOSE DE FATIMA</Nome>
+    <Numero>44111</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JORGE RELOJÃO</Nome>
+    <Numero>36637</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DEDÊ</Nome>
+    <Numero>12133</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MAZINHO</Nome>
+    <Numero>36007</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JULIÃO RISPOLI</Nome>
+    <Numero>10602</Numero>
+    <Partido>PRB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JULIO</Nome>
+    <Numero>19999</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RADIALISTA LAERCIO JUNIOR</Nome>
+    <Numero>14014</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LEANDRO XUXA</Nome>
+    <Numero>14222</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LEO SEABRA</Nome>
+    <Numero>15222</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>TIA LIGIA</Nome>
+    <Numero>22103</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LINO CESAR</Nome>
+    <Numero>44540</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LUCELIO</Nome>
+    <Numero>14549</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LUCIANA TESCH</Nome>
+    <Numero>43999</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LUCIO MENDES</Nome>
+    <Numero>10110</Numero>
+    <Partido>PRB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LUIS CARLOS ROSSI</Nome>
+    <Numero>27007</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CORONEL CALIXTO BARBOSA</Nome>
+    <Numero>22122</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DUDU</Nome>
+    <Numero>27123</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FELIPÃO LARANGEIRA</Nome>
+    <Numero>43111</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SANSON</Nome>
+    <Numero>15015</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LUIZÃO</Nome>
+    <Numero>70270</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SABBADIN</Nome>
+    <Numero>43431</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LUIZA CRUZ</Nome>
+    <Numero>12146</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MAICON CAMPOS</Nome>
+    <Numero>36000</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCELO DA PRO DEFICIENCIA</Nome>
+    <Numero>15888</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCELO MOTORISTA</Nome>
+    <Numero>22613</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCELO LESSA</Nome>
+    <Numero>22777</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCELO MOURA</Nome>
+    <Numero>25012</Numero>
+    <Partido>DEM</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCIA CAMINHA</Nome>
+    <Numero>12001</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCIA AQUINO</Nome>
+    <Numero>15551</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCIA CAIAFFA</Nome>
+    <Numero>19190</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCIO ARRUDA</Nome>
+    <Numero>15150</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCIO TESCH</Nome>
+    <Numero>22321</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCIO MONTENEGRO</Nome>
+    <Numero>15333</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCIO REIS</Nome>
+    <Numero>12122</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCIO ZANATA</Nome>
+    <Numero>12222</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JARDIM</Nome>
+    <Numero>43434</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCÃO DING DONG</Nome>
+    <Numero>50018</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCOS FERNANDO</Nome>
+    <Numero>22555</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ENGº MARCUS MACIEIRA</Nome>
+    <Numero>70007</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARGARIDA MARIA</Nome>
+    <Numero>45851</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ESTER MANDONÇA</Nome>
+    <Numero>50111</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>EDNA CBELEIREIRA</Nome>
+    <Numero>45111</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MADA</Nome>
+    <Numero>55001</Numero>
+    <Partido>PSD</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARIA SUELI</Nome>
+    <Numero>36236</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARIANA FERRAZ</Nome>
+    <Numero>43210</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARINHO DESPACHANTE</Nome>
+    <Numero>45122</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARLI BAFFA</Nome>
+    <Numero>15500</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARTINHA</Nome>
+    <Numero>27013</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARTINHO GAROTO DA COCADA</Nome>
+    <Numero>50000</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>BORGES</Nome>
+    <Numero>15777</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MAURILIO SHURUBILA</Nome>
+    <Numero>44046</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MAURINHO BRANCO</Nome>
+    <Numero>36111</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MAURO PUJOU</Nome>
+    <Numero>12123</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DR. MAURO PERALTA</Nome>
+    <Numero>45451</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MICHELE OLIVEIRA</Nome>
+    <Numero>22381</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MIGUEL MORELLI</Nome>
+    <Numero>43443</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MIRTA TABICAS</Nome>
+    <Numero>19000</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MONICA LIMA</Nome>
+    <Numero>15088</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>NELI BOTELHO</Nome>
+    <Numero>19171</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>NELSON DO FORUM</Nome>
+    <Numero>12555</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>1</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>NEUSA DO SOM DA RUA</Nome>
+    <Numero>22212</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>NEYDE DA SAÚDE</Nome>
+    <Numero>12100</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ROMARIO</Nome>
+    <Numero>22111</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GULOZINHO</Nome>
+    <Numero>15555</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PAULO ARTHUR</Nome>
+    <Numero>15151</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>TARDAN</Nome>
+    <Numero>22400</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PAULO IGOR</Nome>
+    <Numero>15000</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PAULINHO DA FLORIANO</Nome>
+    <Numero>70006</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PAULO AGUINAGA</Nome>
+    <Numero>70400</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PAULO RODRIGUES</Nome>
+    <Numero>50409</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PAULO BROA</Nome>
+    <Numero>27770</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RAFAEL BERGEL</Nome>
+    <Numero>22022</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RAMON MELLO</Nome>
+    <Numero>45123</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>REGINA BARRAGAT</Nome>
+    <Numero>12033</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>REGINALDO DO VILA RICA</Nome>
+    <Numero>22345</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>REGINALDO SORRISO</Nome>
+    <Numero>50232</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>BERLIM</Nome>
+    <Numero>50131</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MEIRELLES</Nome>
+    <Numero>14190</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RENAN CAMPOS</Nome>
+    <Numero>15159</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RENATO THOMÉ</Nome>
+    <Numero>27767</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RITA SILVA</Nome>
+    <Numero>14713</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ROBERTO MACEDO</Nome>
+    <Numero>14357</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PASTOR ROBERTO MARTINS</Nome>
+    <Numero>27100</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>BETÃO</Nome>
+    <Numero>45233</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ROBERTO JUNIOR</Nome>
+    <Numero>15153</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RODNEI MANCHESTER</Nome>
+    <Numero>10210</Numero>
+    <Partido>PRB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RODOLPHO BRINCKMANN</Nome>
+    <Numero>12210</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RONALDO GOMES</Nome>
+    <Numero>27369</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RONALDÃO</Nome>
+    <Numero>22222</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RONALDO RAMOS</Nome>
+    <Numero>36789</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RONI MEDEIROS</Nome>
+    <Numero>14140</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ROSA TEIXEIRA</Nome>
+    <Numero>45012</Numero>
+    <Partido>PSDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ROSE</Nome>
+    <Numero>43222</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LEIA DIAS</Nome>
+    <Numero>44169</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROFESSORA ROSE</Nome>
+    <Numero>12012</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ROSINETE VIGILANTE</Nome>
+    <Numero>36446</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RUBENS BESSA</Nome>
+    <Numero>12500</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SANDRINHO LARA</Nome>
+    <Numero>19456</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SATURNINO</Nome>
+    <Numero>70104</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>NEGUINHO</Nome>
+    <Numero>44633</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SEBASTIÃO MENDES</Nome>
+    <Numero>36580</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SERGINHO ALMEIDA</Nome>
+    <Numero>36456</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PUREZA</Nome>
+    <Numero>50524</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SILMAR FORTES</Nome>
+    <Numero>15700</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SILVANA</Nome>
+    <Numero>44222</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SILVIO CESAR</Nome>
+    <Numero>15232</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SILVIO PICO</Nome>
+    <Numero>44040</Numero>
+    <Partido>PRP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SONINHA MARACANÃ</Nome>
+    <Numero>14667</Numero>
+    <Partido>PTB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROFESSORA SUELY</Nome>
+    <Numero>43243</Numero>
+    <Partido>PV</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SYLVIO COSTA FILHO</Nome>
+    <Numero>50556</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>THIAGO GIBRAIL</Nome>
+    <Numero>22456</Numero>
+    <Partido>PR</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VAGNER PARDINHO</Nome>
+    <Numero>25456</Numero>
+    <Partido>DEM</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VALTINHO</Nome>
+    <Numero>25000</Numero>
+    <Partido>DEM</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VANDA</Nome>
+    <Numero>19020</Numero>
+    <Partido>PTN</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VANDERLEI</Nome>
+    <Numero>50104</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VERA DO CAXAMBU</Nome>
+    <Numero>70122</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VICENTE MACHADO</Nome>
+    <Numero>36333</Numero>
+    <Partido>PTC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VITOR DA FARMÁCIA</Nome>
+    <Numero>12999</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ROSINHA</Nome>
+    <Numero>70111</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VALERIANA OLIVEIRA</Nome>
+    <Numero>12890</Numero>
+    <Partido>PDT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ARAUJO MOTORISTA</Nome>
+    <Numero>70713</Numero>
+    <Partido>PTDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>WESLEY BARRETO</Nome>
+    <Numero>15321</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>THIAGO DAMACENO</Nome>
+    <Numero>11333</Numero>
+    <Partido>PP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RENATO KAIPPER</Nome>
+    <Numero>11300</Numero>
+    <Partido>PP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VANINHA</Nome>
+    <Numero>11456</Numero>
+    <Partido>PP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DILSINHO</Nome>
+    <Numero>11777</Numero>
+    <Partido>PP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VITOR PULLIG</Nome>
+    <Numero>13313</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>REGINALDO REIS</Nome>
+    <Numero>13603</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARIA DA PENHA</Nome>
+    <Numero>13612</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLAUDIO POMIM</Nome>
+    <Numero>13613</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROFESSOR RENATO</Nome>
+    <Numero>20333</Numero>
+    <Partido>PSC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>WAGNER SILVA</Nome>
+    <Numero>23013</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>EZEQUIEL PREGADOR</Nome>
+    <Numero>23023</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCELO CHITÃO</Nome>
+    <Numero>23100</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JUSTINO DO RX</Nome>
+    <Numero>31231</Numero>
+    <Partido>PHS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JORGE MAIA-BOLÃO</Nome>
+    <Numero>40040</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VADNHO</Nome>
+    <Numero>40123</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FELIPE YOSHINAGA</Nome>
+    <Numero>40444</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JORGINHO DO BANERJ</Nome>
+    <Numero>40600</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JOHN ROBSON</Nome>
+    <Numero>65650</Numero>
+    <Partido>PCDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DRICA MADEIRA</Nome>
+    <Numero>65651</Numero>
+    <Partido>PCDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ALEX DIAS</Nome>
+    <Numero>50</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Prefeito</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>BERNARDO ROSSI</Nome>
+    <Numero>15</Numero>
+    <Partido>PMDB</Partido>
+    <Cargo>Prefeito</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PAULO MUSTRANGI</Nome>
+    <Numero>13</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Prefeito</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RUBENS BOMTEMPO</Nome>
+    <Numero>40</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Prefeito</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DR. SAMIR</Nome>
+    <Numero>20000</Numero>
+    <Partido>PSC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ANDERSON JULIANO</Nome>
+    <Numero>13456</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>TIAGO FARINHA</Nome>
+    <Numero>23123</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ALAN SILVA</Nome>
+    <Numero>13000</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>YURI MOURA</Nome>
+    <Numero>13513</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VERUSKA</Nome>
+    <Numero>11011</Numero>
+    <Partido>PP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JAQUELINE REIS</Nome>
+    <Numero>23523</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLAUDINHO ESTEVES</Nome>
+    <Numero>13644</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ANA PELKA</Nome>
+    <Numero>40115</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DR. CARMELITA</Nome>
+    <Numero>40009</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ACLAIR</Nome>
+    <Numero>40140</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MARCELO CABELINHO</Nome>
+    <Numero>40024</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FERNANDA PLANZ</Nome>
+    <Numero>13913</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MEU QUERIDO</Nome>
+    <Numero>20134</Numero>
+    <Partido>PSC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>SUMARA</Nome>
+    <Numero>40147</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ADENILSON HONORATO</Nome>
+    <Numero>23033</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>RENATO FREIXELA</Nome>
+    <Numero>65123</Numero>
+    <Partido>PCDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ROBERTO DA AMBULANCIA</Nome>
+    <Numero>65144</Numero>
+    <Partido>PCDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>KIKO ARARAS</Nome>
+    <Numero>31444</Numero>
+    <Partido>PHS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CARLOS HENRIQUE</Nome>
+    <Numero>40144</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ELIANE SCUDESE</Nome>
+    <Numero>40046</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROF. LEANDRO AZEVEDO</Nome>
+    <Numero>65555</Numero>
+    <Partido>PCDOB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MONTANHA</Nome>
+    <Numero>23333</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLAUDINHA</Nome>
+    <Numero>23945</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ANA GARCIA</Nome>
+    <Numero>40321</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DVID RABELLO</Nome>
+    <Numero>20369</Numero>
+    <Partido>PSC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>WASHINGTON ESTANISLAU</Nome>
+    <Numero>13113</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>LUCIANO DO IPASE</Nome>
+    <Numero>20123</Numero>
+    <Partido>PSC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VANIA SILVA</Nome>
+    <Numero>23753</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>BERNADETE BASTOS</Nome>
+    <Numero>13015</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JOSE VIVEIROS</Nome>
+    <Numero>20222</Numero>
+    <Partido>PSC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PROF. MARCIA CHIOTE</Nome>
+    <Numero>20020</Numero>
+    <Partido>PSC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>MAURICIO FOFOLETE</Nome>
+    <Numero>11555</Numero>
+    <Partido>PP</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ALBANINHO</Nome>
+    <Numero>13234</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FARLEN</Nome>
+    <Numero>20012</Numero>
+    <Partido>PSC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>DOMINGOS</Nome>
+    <Numero>23350</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>ZILDA DAMIÃO</Nome>
+    <Numero>27003</Numero>
+    <Partido>PSDC</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JORGINHO SERTÃO</Nome>
+    <Numero>40200</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PAULINHO RESOLVE</Nome>
+    <Numero>40777</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>NELSON ECKHARDT</Nome>
+    <Numero>40789</Numero>
+    <Partido>PSB</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>VAL GAUCHA</Nome>
+    <Numero>50124</Numero>
+    <Partido>PSOL</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>JUNINHO ELETRICISTA</Nome>
+    <Numero>13233</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>FABRICIO ZEQUINELLI</Nome>
+    <Numero>23329</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>GISELE BRAGA</Nome>
+    <Numero>23843</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>CLEBER DA RUA NOVA</Nome>
+    <Numero>13251</Numero>
+    <Partido>PT</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+  <Candidatos>
+    <Nome>PITANGA</Nome>
+    <Numero>23423</Numero>
+    <Partido>PPS</Partido>
+    <Cargo>Vereador</Cargo>
+    <Votos>0</Votos>
+  </Candidatos>
+</ArrayOfCandidatos>
