@@ -1,2 +1,2 @@
-# Urna eletrônica para fins educativos com contagem de votos.
-# Desenvolvida em windows form.
+# Urna eletrônica desenvolvida em windows form. para fins educacionais com contagem de votos.
+ 
